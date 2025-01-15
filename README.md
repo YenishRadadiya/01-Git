@@ -95,7 +95,6 @@ git commit -m 'feat: feature list'
 5. PR should be small in size, It's recommended to do one commit per PR. However, based on the situation we can have multiple commits in PR. e.g. if someone is doing 10 bug fixes which are one-liner fixes in such cases instead of 10 different PRs you can do 10 commits in a single PR. 
 
 6. Create another branch from develop given your previous PR is still in review state 
-![App Screenshot](https://github.com/YenishRadadiya/01-Git/blob/develop/images/6.png)
 
 ![App Screenshot](https://github.com/YenishRadadiya/01-Git/blob/develop/images/6_1.png)
 
@@ -136,4 +135,4 @@ git commit -m 'feat: feature list'
 
 14. add 3 commit to 4th branch and delete last commit.
 
-![App Screenshot](https://github.com/YenishRadadiya/01-Git/blob/develop/images/14png)
+![App Screenshot](https://github.com/YenishRadadiya/01-Git/blob/develop/images/14.png)
