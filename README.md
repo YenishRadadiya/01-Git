@@ -9,7 +9,7 @@ git init
 ```bash
 git flow init
 ```
-![App Screenshot](https://github.com/YenishRadadiya/01-Git/blob/develop/images/chery-pick.png)
+![App Screenshot](https://github.com/YenishRadadiya/01-Git/blob/develop/images/git%20flow%20init.png)
 
 3. Create a feature branch for project setup with the proper Zoho task ID (example: TP2-T1299_Project_Setup)
 
@@ -50,6 +50,13 @@ git cherry-pick 0ee3b79
 
 ## Practical Task:
 1. Create a branch from the develop
+```bash
+git checkout develop
+git flow feature start feature1
+```
+![App Screenshot](https://github.com/YenishRadadiya/01-Git/blob/develop/images/chery-pick.png)
+
+
 2. Add a commit message hook to the repo.
 3. Perform multiple commits in the new branch
 4. Create PR to develop.
